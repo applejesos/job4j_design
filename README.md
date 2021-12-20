@@ -1,4 +1,4 @@
-#Job4j. Уровень "Junior"
+# Job4j. Уровень "Junior"
 ___
 
 Проект содержит решения задач уровня "Junior" курса [Job4j](https://job4j.ru/).
